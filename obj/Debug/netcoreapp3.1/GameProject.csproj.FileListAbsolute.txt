@@ -1,0 +1,13 @@
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\CEREN\Desktop\kodlama.io\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
